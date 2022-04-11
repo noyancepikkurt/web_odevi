@@ -74,3 +74,10 @@ C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\obj\Debug\hastanepro
 C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\obj\Debug\hastaneprojenyn.csproj.CopyComplete
 C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\obj\Debug\hastaneprojenyn.dll
 C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\obj\Debug\hastaneprojenyn.pdb
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\datanyn.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\datanyn.pdb
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\EntityFramework.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\EntityFramework.SqlServer.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\datanyn.dll.config
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\EntityFramework.xml
+C:\Users\ardas\source\repos\hastaneprojenyn\hastaneprojenyn\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,15 @@
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\datanyn.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\datanyn.pdb
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\obj\Debug\datanyn.csprojAssemblyReference.cache
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\obj\Debug\datanyn.csproj.CoreCompileInputs.cache
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\obj\Debug\datanyn.csproj.CopyComplete
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\obj\Debug\datanyn.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\obj\Debug\datanyn.pdb
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\datanyn.dll.config
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\EntityFramework.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\EntityFramework.xml
+C:\Users\ardas\source\repos\hastaneprojenyn\datanyn\bin\Debug\EntityFramework.SqlServer.xml

@@ -11,7 +11,7 @@ namespace hastaneprojenyn.hospitaltemplatenyn.rubic.public_html
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

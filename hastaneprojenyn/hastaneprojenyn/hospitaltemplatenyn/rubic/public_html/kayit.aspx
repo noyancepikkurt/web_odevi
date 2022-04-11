@@ -32,15 +32,15 @@
                 </div>
                 <div class="col-md-5 d-none d-md-block">
                     <form class="header-form">
-                        <div class="head">KAYIT <span class="text-primary"></span> </div>
+                        <div class="head">KAYIT<span class="text-primary"></span> </div>
                         <div class="body">
                             <div class="form-group">
                                 <asp:TextBox ID="TextBox1" runat="server"  type="text" class="form-control" placeholder="Ad Soyad"></asp:TextBox>                            
                             </div>
                             <div class="form-group">
-                                <asp:TextBox ID="TextBox3" runat="server"  type="text" class="form-control" placeholder="Tc kimlik no"></asp:TextBox>                            </div>
+                                <asp:TextBox ID="TextBox2" runat="server"  type="text" class="form-control" placeholder="Tc kimlik no"></asp:TextBox>                            </div>
                             <div class="form-group">
-                                <asp:TextBox ID="TextBox2" runat="server" type="password" class="form-control" placeholder="Şifre"></asp:TextBox>
+                                <asp:TextBox ID="TextBox3" runat="server" type="password" class="form-control" placeholder="Şifre"></asp:TextBox>
                             </div>
                         </div>
                         <div class="footer"> 

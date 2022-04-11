@@ -36,9 +36,10 @@
                         <div class="head">RANDEVU <span class="text-primary"></span> </div>
                         <div class="body">
                             <div class="form-group">
+                                
+                                <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="Hastane_adı" DataValueField="Hastane_adı"></asp:DropDownList>
 
-            <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="hospital_name" DataValueField="hospital_name"></asp:DropDownList>
-            <asp:SqlDataSource runat="server" ID="SqlDataSource1" ConnectionString='<%$ ConnectionStrings:noyan_webConnectionString %>' SelectCommand="SELECT [hospital_name] FROM [hospital_name]"></asp:SqlDataSource>
+                                <asp:SqlDataSource runat="server" ID="SqlDataSource1" ConnectionString='<%$ ConnectionStrings:noyan_webConnectionString %>' SelectCommand="SELECT [Hastane_adı] FROM [Hospital_name]"></asp:SqlDataSource>
                                 <br />
                                 </div>
                                 <div class="form-group">
